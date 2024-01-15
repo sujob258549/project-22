@@ -421,9 +421,8 @@ footer i {
     header h3 {
        display: none;
     }
-
-    .flex-column10{
-        margin: 0 auto;
+    header .main-column {
+        justify-content: center;
     }
 
 }
